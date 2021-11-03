@@ -17,5 +17,6 @@
   </dependencies>
 <modules>
 	<module>camel-file</module>
+	<module>camel-multicast</module>
 </modules>
 </project>
