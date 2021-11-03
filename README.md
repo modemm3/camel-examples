@@ -1,2 +1,2 @@
 # camel-examples
-Camel examples
+Camel examples with Spring Boot
