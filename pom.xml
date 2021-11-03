@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.camel.examples.springboot</groupId>
   <artifactId>camel-examples</artifactId>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>camel-examples</name>
   <url>http://maven.apache.org</url>
@@ -15,4 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+<modules>
+	<module>camel-file</module>
+</modules>
 </project>
